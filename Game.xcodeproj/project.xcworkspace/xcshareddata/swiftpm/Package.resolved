@@ -1,0 +1,24 @@
+{
+  "originHash" : "a93d950f80920be96da128942d890e138606318a9d487d563f4d53e279752d1c",
+  "pins" : [
+    {
+      "identity" : "gamecore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hafidmust/GameCore.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "51657f04fe9fd8db5f7fac9e57a7824f45901567"
+      }
+    },
+    {
+      "identity" : "gamedata",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hafidmust/GameData.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "96c8c7aed30d0647ed64b30329f4df7013719142"
+      }
+    }
+  ],
+  "version" : 3
+}
